@@ -30,6 +30,7 @@
 		384AD4F19A6492D5ABF46053 /* AppCodeDataStruct */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AppCodeDataStruct; sourceTree = BUILT_PRODUCTS_DIR; };
 		384AD7ECA39553560B375642 /* graphList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = graphList.h; sourceTree = "<group>"; };
 		384AD90C9B7E7E454A7EFBB4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		384ADEA8640B04687F6551C5 /* miniSpanTreePrim.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = miniSpanTreePrim.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				384AD1B30C4B21C842E495ED /* AppCodeDataStruct.1 */,
 				384AD32265750501A365BADA /* graphVetex.h */,
 				384AD7ECA39553560B375642 /* graphList.h */,
+				384ADEA8640B04687F6551C5 /* miniSpanTreePrim.h */,
 			);
 			path = AppCodeDataStruct;
 			sourceTree = "<group>";
